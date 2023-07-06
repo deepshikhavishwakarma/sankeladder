@@ -1,1 +1,2 @@
-basic sl game
+Cloned from ambika ma'am
+by Deepshikha
